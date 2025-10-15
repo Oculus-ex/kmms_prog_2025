@@ -1,0 +1,7 @@
+build_*/
+lib/
+
+*.exe
+*.ii
+*.s
+*.o
